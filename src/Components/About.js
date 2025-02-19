@@ -13,24 +13,24 @@ export default function About() {
             <article class="about_card">
               <BsAward className="about_icons" />
               <h5>Experience</h5>
-              <small>
+              <p className="about_info">
                 6 months Intership as Fullstack Developer at Codeworld Infotech
-              </small>
+              </p>
             </article>
 
             <article class="about_card">
               <GrAchievement className="about_icons" />
               <h5>Achievements</h5>
-              <small>
+              <p className="about_info">
                 2nd at Dexter Inofest 2023-24 National Level Programming
                 Competition
-              </small>
+              </p>
             </article>
 
             <article class="about_card">
               <GoProjectSymlink className="about_icons" />
               <h5>Projects</h5>
-              <small>Completed 6 Projects in Intership</small>
+              <p className="about_info">Completed 6 Projects in Intership</p>
             </article>
           </div>
           <p>
