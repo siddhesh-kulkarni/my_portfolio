@@ -39,7 +39,7 @@ export default function Contact() {
             <a
               href="https://api.whatsapp.com/send?phone=917741973805"
               target="_blank"
-            >Call</a>
+            >Send Message</a>
           </article>
         </div>
 
