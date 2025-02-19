@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my_portfolio/static/css/main.76c4f875.css",
-    "main.js": "/my_portfolio/static/js/main.a14a7569.js",
+    "main.js": "/my_portfolio/static/js/main.bd9aabbc.js",
     "static/js/453.1407b060.chunk.js": "/my_portfolio/static/js/453.1407b060.chunk.js",
     "static/media/satellite.png": "/my_portfolio/static/media/satellite.f6b03388a03c87f7cef1.png",
     "static/media/soman.png": "/my_portfolio/static/media/soman.6fee0f1d91964d66885f.png",
@@ -12,15 +12,16 @@
     "static/media/envrioodash.png": "/my_portfolio/static/media/envrioodash.14e4f747e0925f4f543b.png",
     "static/media/sid.png": "/my_portfolio/static/media/sid.bc4aca1c1f6176276d6a.png",
     "static/media/hrm.png": "/my_portfolio/static/media/hrm.739e2a6c1adb127afd33.png",
+    "static/media/scgt.png": "/my_portfolio/static/media/scgt.c21f48eae7613ceb72f6.png",
     "static/media/Siddhesh_Kulkarni.pdf": "/my_portfolio/static/media/Siddhesh_Kulkarni.47ebe9aeda040802898b.pdf",
     "static/media/Sid_Resume.pdf": "/my_portfolio/static/media/Sid_Resume.7ce20c4842c13d6da569.pdf",
     "index.html": "/my_portfolio/index.html",
     "main.76c4f875.css.map": "/my_portfolio/static/css/main.76c4f875.css.map",
-    "main.a14a7569.js.map": "/my_portfolio/static/js/main.a14a7569.js.map",
+    "main.bd9aabbc.js.map": "/my_portfolio/static/js/main.bd9aabbc.js.map",
     "453.1407b060.chunk.js.map": "/my_portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76c4f875.css",
-    "static/js/main.a14a7569.js"
+    "static/js/main.bd9aabbc.js"
   ]
 }
