@@ -54,8 +54,8 @@ export default function Projects() {
 
   return (
     <section id="projects">
-      <h5>My Projects</h5>
-      <h2>I Have Successfully Completed Websites during Internship</h2>
+      <h5>Internship Projects</h5>
+      <h2>Completed Websites during Internship</h2>
 
       <div className="container projects_coatainer">
         {projectData.map((project, index) => (
