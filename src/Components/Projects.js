@@ -5,7 +5,7 @@ import mascot from "../../src/assets/mascot.png";
 import enviroodash from "../../src/assets/envrioodash.png";
 import enviroo from "../../src/assets/envrioo.png";
 import soman from "../../src/assets/soman.png";
-
+import scgt from "../../src/assets/scgt.png";
 export default function Projects() {
   const projectData = [
     {
@@ -50,6 +50,13 @@ export default function Projects() {
       link: "https://somannaravanekulvrutant.com/App",
       name: "Soman Naravane",
     },
+    {
+      image: scgt,
+      alt: "SCGT",
+      title : "This is Saturday GLobal Trust MobileView Wesbite",
+      link: "https://demo.codeworld.co.in/scgt/",
+      name: "Saturday Global Trust"
+    }
   ];
 
   return (
