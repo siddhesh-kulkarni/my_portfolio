@@ -288,10 +288,10 @@ nav a.active {
   cursor: default;
 }
 
-.about_icon {
+.about_icons {
   color: var(--color-primary);
   font-size: 2.4rem;
-  margin-bottom: 3rem;
+  /* margin-bottom: 1rem; */
 }
 
 .about_card h5 {
@@ -308,7 +308,7 @@ nav a.active {
 }
 
 .about_content p {
-  margin: 2rem 0 2.6rem;
+  margin: 1rem 0 2rem;
   color: var(--color-light);
 }
 
