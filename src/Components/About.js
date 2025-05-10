@@ -34,11 +34,10 @@ export default function About() {
             </article>
           </div>
           <p>
-            I am seeking a challenging role in a reputed company where I can
-            apply my software skills to contribute to the organization's
-            success. I aim to work on innovative projects, enhance my technical
-            expertise, and grow professionally in a dynamic environment while
-            working collaboratively with a team to achieve common goals.
+            Motivated web developer with a successful internship in web
+            development, seeking to leverage my expertise in React, JavaScript,
+            and React Native to contribute to innovative projects and drive user
+            engagement in a dynamic team environment.
           </p>
         </div>
       </div>
