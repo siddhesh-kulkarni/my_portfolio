@@ -23,9 +23,9 @@ export default function Contact() {
           <article class="contact_option">
             <BiMailSend className="contact_option-icon" />
             <h4>Email</h4>
-            <h5>siddheshsanjaykulkarni1111@gmail.com</h5>
+            <h5>siddheshsanjaykulkarni@gmail.com</h5>
             <a
-              href="mailto:siddheshsanjaykulkarni1111@gmail.com"
+              href="mailto:siddheshsanjaykulkarni@gmail.com"
               target="_blank"
             >
               Send Message
